@@ -1,0 +1,11 @@
+{
+  "clientes": [
+    {
+      "nombre": "Test Example",
+      "email": "test@testing.com",
+      "telefono": "4932949249",
+      "empresa": "Testing CO.",
+      "id": 1
+    }
+  ]
+}
